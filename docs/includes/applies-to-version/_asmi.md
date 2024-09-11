@@ -2,7 +2,7 @@
 author: VanMSFT
 ms.author: vanto
 ms.reviewer: randolphwest
-ms.date: 01/24/2023
+ms.date: 2024-09-11
 ms.service: sql
 ms.topic: include
 ---
